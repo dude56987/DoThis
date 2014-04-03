@@ -1,0 +1,14 @@
+Package: doThis
+Version: 1.2
+Installed-Size: 56
+Section: utils
+Maintainer: Carl Smith <BM-NBHLt5EUFVEbRCmrbVrfCyaB2c8d24U9>
+Homepage: hacker-haven.com
+Priority: optional
+Architecture: all
+Depends: goldendict (>=0.0), espeak (>=0.0), zenity (>=0.0), genius (>=0.0), xsel (>=0.0)
+Description: Adds three commands, one to calculate the currently highlighted text, one to speak the highlighted text, and one to define the highlighted text.
+ Adds three commands. (<super>+c) will calculate the highlighted text as a math problem and give the anwser. (<super>+s) will speak the currently highlighted text. (<super>+d) will bring of the definition and wikipedia article for the current text.
+
+
+
